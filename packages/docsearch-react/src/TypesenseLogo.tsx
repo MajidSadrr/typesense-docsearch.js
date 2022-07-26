@@ -13,7 +13,7 @@ export function TypesenseLogo({ translations = {} }: TypesenseLogoProps) {
 
   return (
     <a
-      href={`https://typesense.org/?utm_source=${window.location.hostname}&utm_medium=referral&utm_content=powered_by&utm_campaign=docsearch`}
+      // href={`https://typesense.org/?utm_source=${window.location.hostname}&utm_medium=referral&utm_content=powered_by&utm_campaign=docsearch`}
       target="_blank"
       rel="noopener noreferrer"
     >
